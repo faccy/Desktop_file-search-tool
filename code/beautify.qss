@@ -1,0 +1,17 @@
+
+QWidget {
+    background-color:#eeeeee;
+}
+
+QLineEdit#searchEdit {
+    border:2px solid #903f00;
+    background-color:white;
+    border-radius:5px;
+}
+
+QTableWidget#fileTableW {
+    border:2px solid #903f00;
+    border-radius:5px;
+    background-color:#fff0aa;
+    selection-background-color:#ccb03a;
+}
